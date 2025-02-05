@@ -1,4 +1,4 @@
-<img align="right" width="300" height="=150" src="https://i.pinimg.com/736x/e7/fd/c7/e7fdc762485d850dee430c889379b123.jpg">
+<img align="right" width="300" height="=180" src="https://i.pinimg.com/736x/e7/fd/c7/e7fdc762485d850dee430c889379b123.jpg">
 
 ### 🦕 About me
 That guy from San Francisco
