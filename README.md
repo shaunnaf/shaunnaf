@@ -1,3 +1,5 @@
+<img align="right" width="466" height="=294" src="https://i.pinimg.com/736x/e7/fd/c7/e7fdc762485d850dee430c889379b123.jpg">
+
 ### 🦕 About me
 That guy from San Francisco
 ### ✨ Links:
@@ -12,7 +14,7 @@ That guy from San Francisco
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## GitHub Stats
+### GitHub Stats
 
 ![shaunnaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunnaf&show_icons=true&theme=transparent#gh-dark-mode-only)
 
